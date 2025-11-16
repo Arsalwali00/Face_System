@@ -1,0 +1,16 @@
+Collecting Click
+  Using cached click-8.3.1-py3-none-any.whl (108 kB)
+Collecting face-recognition-models
+  Using cached face_recognition_models-0.3.0.tar.gz (100.1 MB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting numpy
+  Using cached numpy-2.2.6-cp310-cp310-win_amd64.whl (12.9 MB)
+Collecting Pillow
+  Using cached pillow-12.0.0-cp310-cp310-win_amd64.whl (7.0 MB)
+Collecting colorama
+  Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Installing collected packages: face-recognition-models, Pillow, numpy, colorama, Click
+  Running setup.py install for face-recognition-models: started
+  Running setup.py install for face-recognition-models: finished with status 'done'
+Successfully installed Click-8.3.1 Pillow-12.0.0 colorama-0.4.6 face-recognition-models-0.3.0 numpy-2.2.6

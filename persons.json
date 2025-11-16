@@ -1,0 +1,14 @@
+{
+    "Arslan": {
+        "name": "Arslan Wali",
+        "age": 26,
+        "designation": "Flutter Developer",
+        "code": "EMP-001"
+    },
+    "Samran": {
+        "name": "Samran Hussain",
+        "age": 30,
+        "designation": "AI Developer",
+        "code": "EMP-002"
+    }
+}
