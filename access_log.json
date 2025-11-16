@@ -1,0 +1,11 @@
+{"timestamp": "2025-11-16 15:23:21", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:23:22", "name": "Samran", "emp_code": "EMP-002", "access_granted": true, "reason": "Face recognized + Access granted"}
+{"timestamp": "2025-11-16 15:23:33", "name": "Samran", "emp_code": "EMP-002", "access_granted": true, "reason": "Face recognized + Access granted"}
+{"timestamp": "2025-11-16 15:26:17", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:26:25", "name": "Manual", "emp_code": "ADMIN", "access_granted": true, "reason": "Manual unlock via keyboard"}
+{"timestamp": "2025-11-16 15:26:26", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:26:37", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:26:47", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:26:57", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:27:07", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
+{"timestamp": "2025-11-16 15:27:17", "name": "Unknown", "emp_code": "N/A", "access_granted": false, "reason": "Face not recognized"}
